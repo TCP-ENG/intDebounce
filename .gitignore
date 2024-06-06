@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#this removes the library.json file from PlateformIO
+library.json
